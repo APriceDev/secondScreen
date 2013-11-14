@@ -1,0 +1,265 @@
+@charset "utf-8";
+/* CSS Document */
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700,300);
+.row-fluid {
+    width: 960px;
+    *zoom: 1;
+	margin:0px auto;
+  }
+
+.row-fluid .span122 {
+	width: 960px;
+    *width: 960px;
+	height: 320px;
+	background-image: url(../../test/images/back2.png);
+	background-repeat: repeat-x;
+	border: 1px solid #999;
+  }
+  
+  .row-fluid .span12 {
+	width: 960px;
+    
+  }
+ .row-fluid .span06 {
+	width: 420px;
+    *width: 420px;
+	background-color: #999;
+	height: 420px;
+	background-image: url(../html/images/back2.png);
+	background-repeat: repeat-x;
+	border: 1px solid #999;
+	float: left;	
+  }  
+.row-fluid .span006 {
+	width:420px;
+    *width: 420px;
+	background-color: #999;
+	height: 420px;
+	background-image: url(../html/images/back2.png);
+	background-repeat: repeat-x;
+	border: 1px solid #999;
+	float:left;
+  } 
+.row-fluid .title-head{
+	padding-top: 08px;
+	padding-left: 15px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 16px;
+	text-transform: uppercase;
+	color: #222;
+	letter-spacing: 0.01em;
+	}
+.row-fluid img.edit {
+	vertical-align: middle;
+	padding-left: 12px;
+}	
+.publish {
+	margin-right: 6px;
+	border: 1px dashed #666;
+	padding-top: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-left: 4px;
+	font-size: 12px;
+	float: right;
+	background-color: #e3e2e0;
+}		
+
+.video-body{
+	margin-left: 5px;
+	width: 460px;
+	font-size: 13px;
+	color: #333;
+	font-family: "Lucida Bright", Georgia, serif;
+	text-align: center;
+}
+
+.description_title{
+	font-size: 12px;
+	color: #cc0000;
+	width: 150px;
+	height: 15px;
+	margin-left: 7px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding:5px;
+	text-decoration: underline;
+	font-family: Oswald, sans-serif;
+	background-color: #e3e2e0;
+	border: 1px dashed #1d242c;
+	float:left;
+	}
+.description_save{
+	font-size: 12px;
+	color: #cc0000;
+	width: 125px;
+	height: 15px;
+	margin-left: 7px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding:5px;
+	text-decoration: underline;
+	font-family: Oswald, sans-serif;
+	text-shadow: 1px 1px 1px #fff;
+	/*border: 1px dashed #1d242c;*/
+	border: 1px dashed rgba(0,0,0,0.25);
+	background-color: #cececd;
+	float:left;
+	}
+
+.description_save:hover{
+	border: 1px solid rgba(0,0,0,0.5);
+}
+
+.publish_save{
+	font-size: 12px;
+	color: #cc0000;
+	width: 75px;
+	height: 15px;
+	margin-left: 15px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding:5px;
+	text-decoration: underline;
+	font-family: Oswald, sans-serif;
+	text-shadow: 1px 1px 1px #fff;
+	/*border: 1px dashed #1d242c;*/
+	border: 1px dashed rgba(0,0,0,0.25);
+	background-color: #cececd;
+	float:left;
+	}		
+
+.publish_save:hover{
+	border: 1px solid rgba(0,0,0,0.5);
+}
+
+.row-fluid .border_hr {
+	padding: 0 20px;
+	width: 100%;
+	background-image: url(http://www.idesignblogs.com/wp-content/uploads/2013/08/line1.png);
+	background-repeat: repeat-y;	
+}
+
+	
+.video-decription-title{
+	font-size: 12px;
+	color: #263341;
+	font-family: Oswald, sans-serif;
+	height:25px;
+	width:300px;
+	margin-left:10px;
+	text-decoration: underline;	
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.span03{
+	width: 960px;
+	text-align: center;
+	background-color: transparent;
+	border-top-width: 0px;
+	border-top-style: solid;
+	border-top-color: #777;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	background-image: url(../html/images/mback.png);
+	background-repeat: repeat-x;
+	height: 55px;
+	
+}  
+
+ .span331 {
+	width: 160px;
+    
+	background-image: url(../html/images/mod1.png);
+	background-repeat: repeat-x;
+	height: 45px;
+	float:left;
+	margin-right:7px;
+  }
+ .span332 {
+	width: 160px;
+	background-image: url(../html/images/mod2.png);
+	background-repeat: repeat-x;
+	height: 45px;
+	float:left;
+	margin-right:10px;
+  }
+.stest{
+	
+	line-height: 20px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	color: #333;
+	text-align: center;
+	letter-spacing: 0.02em;
+	text-shadow: 1px 1px 1px #ccc;
+	border: 1px dashed #555;
+	padding-top:0px;
+	
+}
+
+.mod1{
+	background-image: url(/images/www.jpg);
+}
+
+.mod2{
+	background-image: url(/images/www3.jpg);
+}
+
+.mod3{
+	background-image: url(/images/www2.jpg);
+}
+
+.mod4{
+	background-image: url(/images/www4.jpg);
+}
+
+.title-head{
+	padding-top: 08px;
+	padding-left:15px;
+	margin-bottom:40px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 16px;
+	text-transform: uppercase;
+	color: #333;
+	letter-spacing: 0.01em;
+	width:455px;
+	}
+.title-text{
+width:190px;
+float:left;
+margin-bottom:20px;
+}
+
+/*#vip {
+	width: 470px;
+	border-bottom: 1px solid #1d242c;
+}*/
+.edit {
+	padding-left: 12px;
+	width: 14px;
+	height: 14px;
+	vertical-align: middle;	
+}	
+.dtext{
+	margin-top: 40px;
+	font-family: "PT Sans", sans-serif;
+	line-height: 18px;
+	text-align: justify;
+	/*border: 1px dashed #1d242c;*/
+	border: 1px dashed rgba(0,0,0,0.25);
+	
+	width: 452px;
+	margin: 0 auto;
+	}
+.arrowl	{
+	float: left;
+	margin-right:6px;
+	margin-top: 4px;
+}
+.arrow2	{
+	float: right;
+	margin-left:6px;
+	margin-top: 4px;
+}
